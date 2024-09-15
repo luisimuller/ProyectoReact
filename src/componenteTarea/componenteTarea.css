@@ -1,0 +1,44 @@
+.item{
+  vertical-align: middle;
+  width: 70%;
+  white-space: pre-line;
+  height: auto;
+  overflow: hidden;
+  word-wrap: break-word;
+  border-bottom-style:groove;
+  display: flex;
+  align-items: center;
+
+}
+
+.item.completed {
+  text-decoration: line-through;
+  text-decoration-color: red;
+}
+
+.botonCompleta{
+height: 30px;
+padding: 4px;
+}
+
+.eliminado{
+height: 30px;
+margin-left:10px;
+padding: 4px;
+}
+
+.botones{
+width: 30%;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+align-items: center;
+margin-bottom: 10px;
+padding: 10px;
+
+}
+
+.lista{
+display: flex;
+width:100%;
+}

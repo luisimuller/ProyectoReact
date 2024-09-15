@@ -1,0 +1,20 @@
+.formulario{
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.addTask{
+    background-color: blueviolet;
+    margin-left: 2%;
+    width: 150px;
+}
+
+.ingreso{
+    width: 40%;
+    height: 100px;
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 6px 0 rgb(110, 62, 90);
+    border-radius: 10px;
+    border: 2px solid black;
+}
